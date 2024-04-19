@@ -24,7 +24,7 @@
   웹 개발 | <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/><img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   앱 개발 | <img src="https://img.shields.io/badge/xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
   임베디드 | <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
-  게임개발 | <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=unity&logoColor=white"/>
+  게임개발 | <img src="https://img.shields.io/badge/unity-#FFFFFF?style=flat-square&logo=unity&logoColor=white"/>
   
   
   
