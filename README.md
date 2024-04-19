@@ -46,6 +46,7 @@
   경상국립대학교 대동제(학내 축제)페이지 제작 | 2022
   응급 차량 보조 비행 드론 `Sky Rescure` 제작 | 2023
   [Duplicate Bug Report Detection By Using Sentence Embedding and Faiss 논문 저자](https://ceur-ws.org/Vol-3655/ISE2023_07_Lee_Duplicate_Bug.pdf) | 2023
+  패스트 캠퍼스 AI LAB 부트캠프 참여 중 | 2024
   
 </br>
 </br>
