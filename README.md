@@ -26,9 +26,15 @@
   
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=unity&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
 </br>
 </br>
@@ -38,10 +44,14 @@
 
   Content | Date
   :---:|:---:
+  UNITY 게임 개발 `고나푸스 게임` 제작 | 2021
   멋쟁이 사자처럼 10기 수료 | 2021
-  멋쟁이 사자처럼 11기 대표 수료 | 2022
+  방치 자전거 방지를 위한 스마트 자전거 거치대 `The B-rack` 제작 | 2022
+  IoT 자전거 자물쇠 `Rock You` 제작 | 2022
   커스텀 케이크 도안 제작 웹 `Cake Walk` 제작 및 창업아이디어 대회 수상 | 2022
+  멋쟁이 사자처럼 11기 대표 수료 | 2022
   경상국립대학교 대동제(학내 축제)페이지 제작 | 2022
+  응급 차량 보조 비행 드론 `Sky Rescure` 제작 | 2023
   [Duplicate Bug Report Detection By Using Sentence Embedding and Faiss 논문 저자](https://ceur-ws.org/Vol-3655/ISE2023_07_Lee_Duplicate_Bug.pdf) | 2023
   
 </br>
