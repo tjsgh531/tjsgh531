@@ -49,11 +49,22 @@
 </br>
 </br>
 </br>
+
+  ## 선호's Tech Blog
+
+  [티스토리 블로그](https://developerahjosea.tistory.com) 
   
+</br>
+</br>
+</br>
+
   ## 선호's Github status
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjsgh531&show_icons=true&theme=dark)
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjsgh531&layout=compact&theme=tokyonight)
+
+</br>
+</br>
+</br>
 
 </div>
